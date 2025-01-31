@@ -1,11 +1,15 @@
-# food_ordering
-C++ Food Ordering System
+# Food Ordering System
 
-- Developed a **console-based Food Ordering System** in C++ with object-oriented programming principles.  
-- Implemented **menu management** using `map<int, MenuItem>` for efficient lookup and order processing.  
-- Designed **order processing** with a vector-based data structure to store and manage multiple orders.  
-- Integrated **real-time billing & payment processing**, calculating total cost dynamically.  
-- Ensured **user-friendly interaction** with structured input validation and order summaries.  
-- Applied **modular design** with functions for menu display, order placement, and payment handling.  
-- Demonstrated **exception handling** by validating item selection and payment transactions.
+A simple console-based **Food Ordering System** built using **C++**. This project implements an object-oriented approach to manage food orders, displaying a menu, processing orders, and handling payments.
 
+## Features
+- **Menu Display**: Shows available food items with prices.
+- **Order Management**: Allows users to place orders with item quantity.
+- **Billing**: Calculates and displays the total amount.
+- **Payment Processing**: Handles payment and confirms orders.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have a C++ compiler (e.g., GCC or Clang) installed.
